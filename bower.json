@@ -1,0 +1,21 @@
+{
+  "name": "test-bower-comp",
+  "authors": [
+    "Savan Koradia <savan.koradia@multidots.in>"
+  ],
+  "description": "This is just for testing.",
+  "main": "index.js",
+  "keywords": [
+    "Test",
+    "Bower"
+  ],
+  "license": "MIT",
+  "homepage": "www.savankoradia.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
