@@ -1,8 +1,8 @@
 {
   "name": "test-bower-comp",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "This is for testing",
-  "main": "importer.js",
+  "main": "login.module.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
