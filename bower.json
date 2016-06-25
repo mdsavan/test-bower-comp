@@ -4,7 +4,7 @@
     "Savan Koradia <savan.koradia@multidots.in>"
   ],
   "description": "This is just for testing.",
-  "main": "index.js",
+  "main": "login.module.js",
   "keywords": [
     "Test",
     "Bower"
